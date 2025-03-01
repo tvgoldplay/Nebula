@@ -77,7 +77,7 @@
             "buffer": "Turtle_1",
             "buffer_status": "Advancing",
             "lane": 4,
-            "map": "NONE",
+            "map": "T3",
             "load": false,
             "prep": false,
             "tool_loaded": false,
