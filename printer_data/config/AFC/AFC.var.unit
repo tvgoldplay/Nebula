@@ -102,6 +102,9 @@
             "extruder": {
                 "lane_loaded": null
             }
+        },
+        "bypass": {
+            "enabled": false
         }
     }
 }
