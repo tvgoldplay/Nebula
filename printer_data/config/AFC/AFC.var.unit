@@ -81,7 +81,7 @@
             "load": true,
             "prep": true,
             "tool_loaded": false,
-            "loaded_to_hub": true,
+            "loaded_to_hub": false,
             "material": "PLA",
             "spool_id": "4",
             "color": "#de1619",
