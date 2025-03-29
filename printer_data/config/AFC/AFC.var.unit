@@ -21,7 +21,7 @@
             "runout_lane": "NONE",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": null
+            "status": "Loaded"
         },
         "lane2": {
             "name": "lane2",
@@ -39,12 +39,12 @@
             "material": "PLA",
             "spool_id": "2",
             "color": "#e6dddb",
-            "weight": 864.9003855885394,
+            "weight": 862.2097298339613,
             "extruder_temp": 210,
             "runout_lane": "NONE",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": null
+            "status": "Loaded"
         },
         "lane3": {
             "name": "lane3",
@@ -62,7 +62,7 @@
             "material": "PLA",
             "spool_id": "3",
             "color": "#519f61",
-            "weight": 899.7614473676373,
+            "weight": 896.8731783502476,
             "extruder_temp": 210,
             "runout_lane": "NONE",
             "filament_status": "In Tool",
@@ -85,12 +85,12 @@
             "material": "PLA",
             "spool_id": "4",
             "color": "#de1619",
-            "weight": 706.5952632798158,
+            "weight": 688.6720796168081,
             "extruder_temp": 210,
             "runout_lane": "NONE",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": null
+            "status": "Loaded"
         }
     },
     "system": {
