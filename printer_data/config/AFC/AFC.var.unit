@@ -16,7 +16,7 @@
             "material": "PLA",
             "spool_id": "1",
             "color": "#1c1c1c",
-            "weight": 463.7057317495214,
+            "weight": 452.6388564084159,
             "extruder_temp": 210,
             "runout_lane": "NONE",
             "filament_status": "In Tool",
@@ -44,7 +44,7 @@
             "runout_lane": "NONE",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": null
+            "status": "Loaded"
         },
         "lane3": {
             "name": "lane3",
