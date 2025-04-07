@@ -21,7 +21,7 @@
             "runout_lane": "NONE",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Loaded"
+            "status": "Tool Loading"
         },
         "lane2": {
             "name": "lane2",
@@ -57,8 +57,8 @@
             "map": "T2",
             "load": false,
             "prep": false,
-            "tool_loaded": true,
-            "loaded_to_hub": false,
+            "tool_loaded": false,
+            "loaded_to_hub": true,
             "material": "PLA",
             "spool_id": "3",
             "color": "#519f61",
@@ -67,7 +67,7 @@
             "runout_lane": "NONE",
             "filament_status": "Not Ready",
             "filament_status_led": "#ff0000",
-            "status": "Tool Unloading"
+            "status": null
         },
         "lane4": {
             "name": "lane4",
@@ -94,7 +94,7 @@
         }
     },
     "system": {
-        "current_load": "lane3",
+        "current_load": null,
         "num_units": 1,
         "num_lanes": 4,
         "num_extruders": 1,
