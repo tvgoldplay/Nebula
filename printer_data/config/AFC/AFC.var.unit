@@ -59,7 +59,7 @@
             "prep": true,
             "tool_loaded": false,
             "loaded_to_hub": true,
-            "material": null,
+            "material": "PLA",
             "spool_id": "3",
             "color": "#519f61",
             "weight": 854.1852224492318,
