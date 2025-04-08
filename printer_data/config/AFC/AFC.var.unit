@@ -21,7 +21,7 @@
             "runout_lane": "NONE",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": null
+            "status": "Loaded"
         },
         "lane2": {
             "name": "lane2",
@@ -58,7 +58,7 @@
             "load": true,
             "prep": true,
             "tool_loaded": true,
-            "loaded_to_hub": true,
+            "loaded_to_hub": false,
             "material": "PLA",
             "spool_id": "3",
             "color": "#519f61",
