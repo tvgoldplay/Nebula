@@ -58,7 +58,7 @@
             "load": true,
             "prep": true,
             "tool_loaded": true,
-            "loaded_to_hub": false,
+            "loaded_to_hub": true,
             "material": "PLA",
             "spool_id": "3",
             "color": "#519f61",
@@ -67,7 +67,7 @@
             "runout_lane": "NONE",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Tool Loading"
+            "status": "Tool Loaded"
         },
         "lane4": {
             "name": "lane4",
