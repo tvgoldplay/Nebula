@@ -1,1 +1,0 @@
-import{S as e}from"./Viewer-cef512b1.js";const t="logDepthDeclaration",r="#ifdef LOGARITHMICDEPTH\nuniform logarithmicDepthConstant: f32;varying vFragmentDepth: f32;\n#endif\n";e.IncludesShadersStoreWGSL[t]=r;
