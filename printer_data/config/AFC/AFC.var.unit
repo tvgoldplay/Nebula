@@ -36,7 +36,7 @@
             "prep": true,
             "tool_loaded": false,
             "loaded_to_hub": true,
-            "material": null,
+            "material": "ABS",
             "spool_id": "9",
             "color": "#C8102E",
             "weight": 483.77663166060563,
