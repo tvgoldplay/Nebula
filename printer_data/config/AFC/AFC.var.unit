@@ -16,7 +16,7 @@
             "material": "ASA",
             "spool_id": "7",
             "color": "#101820",
-            "weight": 166.06809728023507,
+            "weight": 165.656119244999,
             "extruder_temp": null,
             "runout_lane": "NONE",
             "filament_status": "In Tool",
