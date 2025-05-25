@@ -16,12 +16,12 @@
             "material": "ASA",
             "spool_id": "1",
             "color": "#101820",
-            "weight": 250.0,
+            "weight": 246.7986222974655,
             "extruder_temp": null,
             "runout_lane": "NONE",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Tool Loading"
+            "status": "Loaded"
         },
         "lane2": {
             "name": "lane2",
@@ -100,7 +100,7 @@
         "num_extruders": 1,
         "extruders": {
             "extruder": {
-                "lane_loaded": ""
+                "lane_loaded": null
             }
         },
         "bypass": {
