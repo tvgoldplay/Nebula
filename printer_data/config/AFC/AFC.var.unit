@@ -16,7 +16,7 @@
             "material": "ASA",
             "spool_id": "1",
             "color": "#101820",
-            "weight": 206.65203759180918,
+            "weight": 188.11502580588342,
             "extruder_temp": null,
             "runout_lane": "NONE",
             "filament_status": "In Tool",
@@ -62,12 +62,12 @@
             "material": "PLA",
             "spool_id": "4",
             "color": "#519f61",
-            "weight": 593.6903562959508,
+            "weight": 587.5567491320297,
             "extruder_temp": 210,
             "runout_lane": "NONE",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": null
+            "status": "Loaded"
         },
         "lane4": {
             "name": "lane4",
