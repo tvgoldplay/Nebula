@@ -62,7 +62,7 @@
             "material": "PLA",
             "spool_id": "4",
             "color": "#519f61",
-            "weight": 545.0631199628369,
+            "weight": 542.8146343037063,
             "extruder_temp": 210,
             "runout_lane": "NONE",
             "filament_status": "In Tool",
