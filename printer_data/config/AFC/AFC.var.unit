@@ -9,8 +9,8 @@
             "buffer_status": "Advancing",
             "lane": 1,
             "map": "T0",
-            "load": true,
-            "prep": true,
+            "load": false,
+            "prep": false,
             "tool_loaded": false,
             "loaded_to_hub": true,
             "material": "PLA",
@@ -22,8 +22,8 @@
             "weight": 283.81649131119707,
             "extruder_temp": 210,
             "runout_lane": "NONE",
-            "filament_status": "Ready",
-            "filament_status_led": "#00cc00",
+            "filament_status": "Not Ready",
+            "filament_status_led": "#ff0000",
             "status": "None"
         },
         "lane2": {
@@ -112,7 +112,7 @@
         "num_extruders": 1,
         "extruders": {
             "extruder": {
-                "lane_loaded": ""
+                "lane_loaded": null
             }
         },
         "bypass": {
